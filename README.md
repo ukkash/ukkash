@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammed Okkasha M
 - 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning PythonFullStack development
+- 🌱 I’m currently intern @ Techolas Technologies Calicut
 - 📫 mailto:muhammedokkasha@gmail.com
 
 <!---
